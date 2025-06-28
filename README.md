@@ -217,16 +217,4 @@ git push
 
 ---
 
-## 📜 License
 
-MIT License – Free for personal and commercial use.
-
-```
-
----
-
-Let me know if you'd like me to:
-- Customize this for your GitHub repo directly
-- Add badges or screenshots
-- Turn it into a website home page too!
-```
